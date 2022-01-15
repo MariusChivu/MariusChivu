@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MariusChivu
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning front & backend web programming
-<figure><embed src="https://wakatime.com/share/@fc2320a8-2dfd-412b-91b1-a10467918a4b/d7e6d4b3-a4b9-4511-a9aa-e8e5a4879d00.svg"></embed></figure>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@fc2320a8-2dfd-412b-91b1-a10467918a4b/db4ec4ba-76c9-4b52-ab38-425c4acc232f.png" /></a>
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
