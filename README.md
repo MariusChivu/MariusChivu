@@ -2,7 +2,7 @@
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning front & backend web programming
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@fc2320a8-2dfd-412b-91b1-a10467918a4b/e8369640-8e29-416f-857d-2e1ac196455e.png" /></a>
+<img src="https://wakatime.com/share/@fc2320a8-2dfd-412b-91b1-a10467918a4b/9379fb54-59bf-4c0a-89d3-7065ed103926.png" />
 <!--
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@fc2320a8-2dfd-412b-91b1-a10467918a4b/db4ec4ba-76c9-4b52-ab38-425c4acc232f.png" height="300px"/></a>
 
